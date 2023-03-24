@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-project/static/css/main.0055745b.css",
+    "main.js": "/react-tutorial-project/static/js/main.a158959b.js",
+    "static/media/Grou-77.png": "/react-tutorial-project/static/media/Grou-77.01d83c464e2a227aac66.png",
+    "static/media/image-12.png": "/react-tutorial-project/static/media/image-12.2af3cd3e64678b975fc7.png",
+    "static/media/img3.png": "/react-tutorial-project/static/media/img3.5986473fcbe97960f54f.png",
+    "static/media/img2.png": "/react-tutorial-project/static/media/img2.77fb93d0cbd5e881e157.png",
+    "index.html": "/react-tutorial-project/index.html",
+    "main.0055745b.css.map": "/react-tutorial-project/static/css/main.0055745b.css.map",
+    "main.a158959b.js.map": "/react-tutorial-project/static/js/main.a158959b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0055745b.css",
+    "static/js/main.a158959b.js"
+  ]
+}
