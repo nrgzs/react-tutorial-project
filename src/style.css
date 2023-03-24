@@ -68,7 +68,7 @@ section {
 .card_container {
   width: 175px;
   font-size: 12px;
-
+  position: relative;
   display: flex;
   flex-direction: column;
   margin-right: 20px;
@@ -87,4 +87,14 @@ section {
 
 .star_img {
   height: 14px;
+}
+
+.card_badge {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 2px;
+  font-weight: bold;
 }
